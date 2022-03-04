@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pvictortm
-- 👀 I’m interested in FullStack...
+- 👀 I’m interested in be a FullStack Developer...
 - 🌱 I’m currently learning PhP and Java POO.
 - 💞️ I’m looking to collaborate on codes for learn about programation.
 - 📫 How to reach me paulovictor11pv@hotmail.com
